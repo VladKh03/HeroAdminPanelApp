@@ -12,11 +12,18 @@
       "description": "Скрывающийся в тени",
       "element": "wind"
     },
+    
     {
       "id": 3,
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
+    },
+    {
+      "id": "17d1f6c2-5526-4ed6-9f6c-37dc7853d00a",
+      "name": "gfd",
+      "description": "gdf",
+      "element": "fire"
     }
   ],
   "filters": [
