@@ -24,8 +24,7 @@
       "description": "gdf",
       "element": "fire"
     }
-  ],    
-  
+  ],      
   "filters": [
     {
       "id": "all",
