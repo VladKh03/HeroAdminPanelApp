@@ -10,7 +10,6 @@ const stringMiddleware = () => (next) => (action) => {
     }
     return next(action)
 };
-
 const store = configureStore({
     reducer: {heroes, filters},
     middleware: getDefaultMiddleware => getDefaultMiddleware().concat(stringMiddleware),
